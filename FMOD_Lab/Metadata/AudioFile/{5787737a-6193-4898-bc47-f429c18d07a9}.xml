@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5787737a-6193-4898-bc47-f429c18d07a9}">
+		<property name="assetPath">
+			<value>PM_FSSF2_AIR_HISS_RELEASE_HIPITCH_DISTANT_5.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.3658503401360544</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee6ca0bc-6aa1-42fc-8d36-70f88414447f}</destination>
+		</relationship>
+	</object>
+</objects>

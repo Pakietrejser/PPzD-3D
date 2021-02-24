@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8a6c2aca-d1c8-4e72-a422-5f5f46708a91}">
+		<property name="assetPath">
+			<value>BOOT_METAL1_08-04_MED WALK_416.L.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.30467120181406</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ee6ca0bc-6aa1-42fc-8d36-70f88414447f}</destination>
+		</relationship>
+	</object>
+</objects>
